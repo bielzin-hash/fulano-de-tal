@@ -1,3 +1,54 @@
-{
-	"folders": []
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato de Fulano de Tal</title> <!--trong  é para negrito -->
+</head>
+<body>
+    <h1><strong>Fulano de Tal</strong></h1> <!-- Título principal em negrito -->
+    <h2><strong>Contato</strong></h2> <!-- Subtítulo "Contato" em negrito -->
+    
+    <p>
+        Email: <strong>0000000</strong><br> <!-- Email em negrito -->
+        Telefone: <strong>0000000</strong><br> <!-- Telefone em negrito -->
+        LinkedIn: blabla<br> <!-- LinkedIn sem negrito -->
+        GitHub: blabla <!-- GitHub sem negrito -->
+    </p>
+    _____________________________________________________________________________________________
+</body>
+
+<p>
+    olá, busco oportunidades de estagio na area de desenvolvimento.
+</p>
+<body> 
+    <h1><strong>Tecn web:</strong></h1>
+</body>
+
+<p>
+1. Linguagens: HTML e CSS<br>
+2. Frameworks Fromt- End: React. Js, Vuw. Js<br>
+3. Ferramenta de controle de Versao: GitHub<br>
+4. Editores de texto: Visual Studio Code<br>
+    </p>
+
+<body>
+    <h1><strong>Idiomas</strong></h1>
+</body>
+
+<p> 
+    • Portugues(nativo)
+    • Ingles(intermediario)
+</p>
+
+<body>
+    <h1><strong> Projetos:</strong> </h1>
+</body>
+
+<p>
+    E-commerce WEbsite(projeto Academico)<br>
+       desenvolvimento completo de um site de comercio eletonico<br>
+       utilizando HTML e CSS. Implementacao de duncionalidades como autenticacao d eusuario e carringo de compras.<br>
+       Blog Pessoal(projeto pessoal)<br>
+       criacao de um blog estatico utilizando HTML e CSS<br>
+</p>
